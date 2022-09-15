@@ -88,7 +88,7 @@ const gameOver = () => {
 
   addHistory(questionText, timeTaken, errorCount);
 
-  // restart everything
+  // restart everything Now
   startTime = null;
   errorCount = 0;
   userText = "";
